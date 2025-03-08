@@ -1,6 +1,6 @@
 # Plant Sales Performance Dashboard
 
-### Dashboard Link: Not Applicable (Local Power BI Report)
+### Dashboard Link:https://app.powerbi.com/links/hnGgnOfIb9?ctid=1f436841-fd31-4aac-b492-9d1b692c157b&pbi_source=linkShare&bookmarkGuid=9f9c3270-6838-4e58-99c5-b5c18235ab7d
 
 ## Problem Statement
 This Power BI dashboard provides comprehensive insights into the Plant Sales Performance for the year 2023. The primary objective of this report is to evaluate the company's sales performance across various regions, product types, and time periods. The dashboard helps in understanding Plant Sales, Quantity Sold, and Gross Profit over the years while comparing Year-on-Year (YoY) performance to uncover trends, areas of improvement, and sales distribution patterns. The analysis highlights key sales trends, underperforming regions, and actionable insights to enable data-driven decision-making
